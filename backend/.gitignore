@@ -1,0 +1,5 @@
+.venv
+.env
+parsed_files
+graph_rag_pipilne/.env
+graph_rag_pipilne/logs/indexing-engine.log
