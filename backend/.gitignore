@@ -1,5 +1,5 @@
 .venv
 .env
 parsed_files
-graph_rag_pipilne/.env
-graph_rag_pipilne/logs/indexing-engine.log
+rag_pipeline/.env
+rag_pipeline/testing_rag.py
