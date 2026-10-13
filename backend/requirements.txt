@@ -1,0 +1,6 @@
+graphrag
+requests
+python-dotenv
+langchain-groq
+langchain-core
+ollamauv
